@@ -6,6 +6,8 @@
 
 ![Main Photo](./readmeimages/main.png)
 
+---
+
 ## About
 
 This is a project is a pocket sized version of LinkTree. It allows for users to easily create their own link consolidation hub for social media such as Instagram, X (Formerly Twitter), and Facebook to list a few.
