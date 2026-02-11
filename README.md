@@ -2,7 +2,7 @@
 
 # LinkHub
 
-![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_WIP.svg)
+![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_WIP.svg) ![](https://raw.githubusercontent.com/honkita/PixelIcons/main/Languages/JavaScript.svg) ![](https://raw.githubusercontent.com/honkita/PixelIcons/main/Languages/CSS.svg) ![](https://raw.githubusercontent.com/honkita/PixelIcons/main/Frameworks/Nextjs.svg)
 
 ![Main Photo](./readmeimages/main.png)
 
